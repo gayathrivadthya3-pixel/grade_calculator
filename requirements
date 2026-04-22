@@ -1,0 +1,6 @@
+Requirements
+-if-elif-else → used for grading
+- Function → calculate_grade()
+-Input validation → while loop + range check
+-Encouraging messages → added for each grade
+-Structured project → GitHub ready
