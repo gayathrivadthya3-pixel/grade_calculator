@@ -55,7 +55,7 @@ Check `test_cases.txt` for sample inputs and outputs.
 - Handling user input errors
 - Structuring a complete project for GitHub
 
-## 🚀 Future Improvements
+## Future Improvements
 - Add multiple student support
 - Save results to a file
 - Add GUI using Tkinter
